@@ -16,7 +16,7 @@ exports.run = {
 
 Alasan utama yang menyebabkan akun terkena suspensi/banned adalah melanggar aturan.
 
-Apa saja aturannya? silahkan ketik rules di playboi carti bot.
+Apa saja aturannya? silahkan ketik *rules* di playboi carti bot.
 
 Akun yang terkena suspensi/banned bisa dipulihkan kembali secara gratis dengan menghubungi admin via whatsapp : wa.me/6285771647181
 
