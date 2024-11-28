@@ -1,1 +1,1 @@
-worker: pm2 start index.js && pm2 logs
+worker: node --max-old-space-size=500 index.js
